@@ -1,0 +1,19 @@
+{
+  "name": "prime-sieve",
+  "version": "1.0.0",
+  "description": "An implementation of the Sieve of Erastosthenes as an Express API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleypaul/prime-sieve.git"
+  },
+  "author": "Paul Bradley",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/bradleypaul/prime-sieve/issues"
+  },
+  "homepage": "https://github.com/bradleypaul/prime-sieve#readme"
+}
